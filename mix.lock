@@ -1,0 +1,2 @@
+%{"decimal": {:git, "git://github.com/ericmj/decimal.git", "f218f497d1289dd683106e680f24adffe4677bfb", []},
+  "jazz": {:git, "git://github.com/meh/jazz.git", "d88a861644113b8ba335ff6a54fb059519566365", []}}
